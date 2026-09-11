@@ -56,6 +56,9 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "iPhone18,3":                                      iPhone 17
 "iPhone18,4":                                      iPhone Air
 "iPhone18,5":                                      iPhone 17e
+"iPhone19,2":                                      iPhone 18 Pro
+"iPhone19,3", "iPhone19,7":                        iPhone 18 Pro Max
+"iPhone19,4":                                      iPhone Duo
 ```
 
 ## iPad
@@ -153,6 +156,8 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, HomePod,) model l
 "Watch7,12":                                        Apple Watch Ultra 3
 "Watch7,17", "Watch7,18", "Watch7,19", "Watch7,20": Apple Watch Series 11
 "Watch7,13", "Watch7,14", "Watch7,15", "Watch7,16": Apple Watch SE 3
+"Watch8,2", "Watch8,3", "Watch8,4", "Watch8,5":     Apple Watch Series 12
+"Watch8,1":                                         Apple Watch Ultra 4
 ```
 
 ## HomePod
